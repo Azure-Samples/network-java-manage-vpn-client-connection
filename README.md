@@ -4,12 +4,12 @@ languages:
 - java
 products:
 - azure
-services: virtual-network
-platforms: java
-author: yaohaizh
+extensions:
+- services: virtual-network
+- platforms: java
 ---
 
-## Getting Started with Network - Manage Vpn Gateway Point2 Site Connection - in Java ##
+# Getting Started with Network - Manage Vpn Gateway Point2 Site Connection - in Java #
 
 
   Azure Network sample for managing virtual network gateway.
